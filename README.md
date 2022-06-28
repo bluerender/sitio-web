@@ -1,4 +1,4 @@
-![Image text](https://github.com/bluerender/sitio-web/blob/main/logo.png)
+![Image text](https://github.com/bluerender/sitio-web/blob/main/logo%20peque%C3%B1o.png)
 # sitio-web
 Relativo al sitio web bluerender.es
 La finalidad de este proyecto es de guardar "en sitio seguro" y a mano todos los cambios realizados en el código del sitio.
