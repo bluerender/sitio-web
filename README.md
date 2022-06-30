@@ -1,7 +1,7 @@
 <img align="left" width="200" src="https://github.com/bluerender/sitio-web/blob/main/logo%20peque%C3%B1o.png">
 
 # sitio-web
-Relativo al sitio web bluerender.es
+Relativo al sitio web <a href="https://bluerender.es">bluerender.es</a>
 La finalidad de este proyecto es de guardar "en sitio seguro" y a mano todos los cambios realizados en el código del sitio.
 Así como todas las notas, ideas, plugins instalados etc. que servirán exclusivamente para "ayudar a la memoria para que no lo olvide".
 Es decir, esto es un proyecto que solo es útil para lo que es; un simple BLOC DE NOTAS.
