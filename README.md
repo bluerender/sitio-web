@@ -15,4 +15,6 @@ Es decir, esto es un proyecto que solo es útil para lo que es; un simple <b>BLO
   
 <p align="center"><a href="https://github.com/bluerender/sitio-web/wiki">Visita la zona Wiki para más información</a></p>
 <p align="center"><a href="https://github.com/users/bluerender/projects/2">Visita la zona Proyectos para ver progreso</a></p>
+
+Hecho en Vcode
   
