@@ -2,7 +2,7 @@
 
 # sitio-web
 Relativo al sitio web <a href="https://bluerender.es">bluerender.es</a>
-La finalidad de este proyecto es de guardar "en sitio seguro" y muy a mano, todos los cambios y mejoras realizadas en el código del sitio.
+La finalidad de este repositorio es de guardar "en sitio seguro" y muy a mano, todos los cambios y mejoras realizadas en el código del sitio.
 Así como todas las notas, ideas, plugins instalados etc., que servirán exclusivamente para "<i>ayudar a la memoria para que no lo olvide</i>".
 Es decir, esto es un proyecto que solo es útil para lo que es; un simple <b>BLOC DE NOTAS.</b>
 <p align="center">
