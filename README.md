@@ -14,7 +14,8 @@ Es decir, esto es un proyecto que solo es útil para lo que es; un simple <b>BLO
 <b><i>¡IMPORTANTE!<i></b> Estos ficheros se utilizarán en temas hijo de Wordpress bajo responsabilidad exclusiva del usuario que se baje, copie y en definitiva utilize cualquier archivo de este repositorio tanto totalmente como parcialmente, exonerando a bluerender y/o a cualquier colaborar de este proyecto de cualquier responsabilidad.
   
 <p align="center"><a href="https://github.com/bluerender/sitio-web/wiki">Visita la zona Wiki para más información</a></p>
-<p align="center"><a href="https://github.com/users/bluerender/projects/2">Visita la zona Proyectos para ver progreso</a></p>
+<p align="center"><a href="https://github.com/users/bluerender/projects/2">Visita la zona Proyectos para ver progreso</a>
+</p>
 
-Hecho en Vcode
+Editado: Visual Studio Code
   
