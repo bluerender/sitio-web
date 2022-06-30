@@ -4,7 +4,7 @@
 Relativo al sitio web bluerender.es
 La finalidad de este proyecto es de guardar "en sitio seguro" y a mano todos los cambios realizados en el código del sitio.
 Así como todas las notas, ideas, plugins instalados etc. que servirán exclusivamente para "ayudar a la memoria para que no lo olvide".
-Es decir, esto es un proyecto que solo es útil para lo que es un simple BLOC DE NOTAS.
+Es decir, esto es un proyecto que solo es útil para lo que es; un simple BLOC DE NOTAS.
 <p align="center">
   <img width="80" src="https://github.com/bluerender/sitio-web/blob/main/cartel-importante.png">
 </p>
