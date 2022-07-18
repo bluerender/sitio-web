@@ -1,1 +1,0 @@
-Al clonar un repositorio con "git clone https://github.com/(usuario)/(repositorio)
